@@ -1,0 +1,123 @@
+.door{
+  background-color:rgb(255, 255, 255);
+  border:thin solid lightgray;
+  margin-left: 40%;
+  margin-right:39%;
+  margin-top:130px;
+  
+
+    
+}
+
+#top{
+    margin-left:10px;
+}
+
+.email{
+    margin:10px 5px;
+    padding-top:10px;
+    padding-right:205px;
+    border: solid thin lightgray;
+
+}
+
+#cen{
+    margin:50px 5px;
+    
+    padding: 20px 5px;
+}
+
+#cent{
+    margin:10px;
+
+}
+
+
+
+#forword{
+   background-color: gold;
+   border-style: solid GRAY;
+   color:BLACK;
+   margin:15px;
+   padding-left: 150px;
+   padding-right: 150px;
+   padding-top:10px;
+   padding-bottom:10px;
+   border:solid thin lightgray;
+
+}
+.help{
+margin-bottom:10px;
+}
+
+
+#linkpass{
+margin-left: 170px;
+
+
+
+}
+
+#Password{
+    padding-right:300px;
+    margin-left: 15px;
+
+    
+}
+
+
+
+
+#Email{
+    padding-right: 300px;
+    margin-left: 15px;
+
+}
+
+
+#emailw{
+    text-indent: 20px;
+
+}
+
+
+A:LINK{
+    TEXT-decoration:none;
+    margin-left:20px;
+
+}
+
+a:hover{
+    color:red
+}
+
+.new{
+    text-align: center;
+    color:gray;
+    margin:40px 38%;
+    padding:5px;
+
+  
+}
+
+#create{
+    background-color: lightgray;
+    border:thin solid gray;
+    color:rgb(0, 0, 0);
+    padding:10px 40px;
+    margin-left:43%;    
+    margin-top:30px;
+
+}
+  
+#links{
+    display:inline-block;
+    margin-left: 42%;
+    margin-top:40px;
+
+}
+
+#bottom{
+    margin-left:43%;
+}
+
